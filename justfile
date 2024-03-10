@@ -1,5 +1,6 @@
 build: 
 	npx @marp-team/marp-cli@latest presentation.md -o ./public/index.html
+	cp -r ./assets ./public/assets
 	
 serve: 
 	npx @marp-team/marp-cli@latest -s ./
@@ -7,5 +8,8 @@ serve:
 docker: build
 	docker build -t booster2024 .
 
-docker-run: docker
+run-docker: docker
 	docker run -p 8043:8043 booster2024
+	
+deploy: build
+	fly deploy
