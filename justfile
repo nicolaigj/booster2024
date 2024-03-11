@@ -1,6 +1,6 @@
 build: 
 	npx @marp-team/marp-cli@latest presentation.md -o ./public/index.html
-	cp -r ./assets ./public/assets
+	cp -r ./assets/ ./public/
 	
 serve: 
 	npx @marp-team/marp-cli@latest -s ./
