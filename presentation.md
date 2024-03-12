@@ -11,13 +11,15 @@ color: #fff
 ### Lyll and Nicode
 ![Lyll width:300px height:auto](./assets/lyll.svg)
 <!---
-- I'm Nicolai, married, two children and a cat
-- CTO in Lyll, which is a digital marketing startup
-- Consultant at Nicode, which is my own company
+. Welcome to my talk about what 1 experienced when I gradually, but suddenly became a leader. 
 - This talk is about my path into leadership roles
 - I don't have any formal leadership training
 - Lessons I have learned and mistakes I've made
 - What I have discovered to be important in leadership
+- I'm Nicolai, married, two children and a cat
+- Developer based in Bergen
+- CTO in Lyll, which is a digital marketing startup
+- Consultant at Nicode, which is my own company
 --->
 
 ---
@@ -26,7 +28,7 @@ color: #fff
 
 <!---
 - Landed my dream job in 2019
-- Finally a proper developer
+- Finally a proper developer, until this point I worked with IT services and then some white collar consulting
 - I don't know why I felt that I was less of a person because I wasn't a developer
 - Looking forward to spending all my time with development
 - Being one of the cool guys
@@ -37,10 +39,11 @@ color: #fff
 ![Spongebob](./assets/spongebob.png)
 <!---
 - This is a portrait of me in 2019
+- I was happy and enthusiastic about my new job
 - I was a sponge to new tasks and responsibilities
 - Saying yes to everything
 - People didn't even have to ask me to do stuff, I did what I thought was necessary
-- I was the de-facto CTO and I loved it
+- Gradually I became tech lead or even de-facto CTO and I loved it
 - I felt important
 --->
 
@@ -53,6 +56,7 @@ color: #fff
 - I was at this point not productive at all
 - Trying to do everything, accomplishing nothing
 - It cost me my sleep, health
+- Ended up crying in a doctors office
 --->
 
 ---
@@ -60,20 +64,21 @@ color: #fff
 # Post-mortem time :thinking:
 ### Where did I go wrong? 
 <!---
-- I didn't say no
+- What happened between me being super enthusiastic and then broken
+- I didn't say no, I was too enthusiastic
 - I didn't know my limitations
 - I took on too much tasks and responsibilities
 - Tried to do all tasks as a developer in addition to new roles
 - The only person thinking about your well being is yourself
+- My identity and capabilities wasn't aligned with the expectations, responsibilities and compensation
 --->
 
 ---
 
-# Identity and capability
+# Identity
 ## The hardest part to shift
 <!---
 - My identity was still a developer
-- My identity and capabilities wasn't aligned with the expectations, responsibilities and compensation
 - What I should have done was to reckognize that my role was shifting, and my identity was stuck
 - When you have a gradual shift towards leadership, it's hard for the identity to follow
 - It's better to not have a fixed identity
@@ -90,18 +95,16 @@ color: #fff
 - Take a long time to say yes
 - Saying yes all the times increase expectations to say yes the next time
 - Be sure that you can deliver on the expectations
-- Be sure that this is the right thing to do
-- Can it be solved in another manner?
 --->
 
 ---
-
 # Responsibilities
-### Prioritize, prioritize, prioritize
+### Prioritize
 <!---
-- You cannot do everything
 - In a leading role no one usually tells you in detail how to spend your day
-- 
+- You cannot do everything, so you have to prioritize
+- Be sure that this is the right thing to do
+- Decide what not to do. Should it be done or delegated? 
 --->
 ---
 # Compensation
@@ -134,20 +137,20 @@ color: #fff
 # Be a better leader
 ### Focus
 <!---
-- Be mindful of your role and expectations
+- Focus on the well-being and sucess of your team
 - Your team is now your task
 - Focus on serving them before other tasks and requests
-- Ex: You are not doing the right thing if you try to solve a bug by yourself instead of helping the entire team 
+- See things from a larger perspective and time frame
+- Example: You are not doing the right thing if you try to solve a bug by yourself instead of helping the entire team 
 --->
 
 ---
 # Be a better leader
-### Outcome
+### Outcome, not output
 <!---
-- Focus on serving them before other tasks and requests
-- Focus on the outcome of the team / company, not yourself
-- I use outcome, because it has a longer perspective and take the well being of the team into account. 
-- Outcome focus on the impact of the team / business
-- Output only focuses on short term results
-- Ex: You are not doing the right thing if you try to solve a bug by yourself instead of helping the entire team 
+- Focus on the outcome, not the output of the team
+- Output is short perspective, and the result of your work
+- Outcome is long perspective, and the impact of your work
+- Impact on the customers and users, are what you are producing to the better for them?
+- Impact on the team and business, are we working in a sustainable way and is this the best for the company?
 --->
