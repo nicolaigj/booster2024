@@ -8,8 +8,8 @@ color: #fff
 
 # Nicolai Gjellestad
 
-### Lyll and Nicode
-![Lyll width:300px height:auto](./assets/lyll.svg)
+![Lyll width:300px height:auto display:block](./assets/lyll.svg)
+![Ilder width:300px height:auto display:block](./assets/ilder.svg)
 <!---
 . Welcome to my talk about what 1 experienced when I gradually, but suddenly became a leader. 
 - This talk is about my path into leadership roles
